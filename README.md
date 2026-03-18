@@ -12,6 +12,10 @@ I am currently studying at New Era University, pursuing a Bachelor of Science in
 
 ## Certification
 
+## Design
+- UI/UX Design using Figma
+- Wireframing and Prototyping
+
 ## Tech Stack
 -  Languages: HTML, CSS, JavaScript, Python, Java
 -  Tools: Git, GitHub, VS Code, IntelliJ, Pycharm
