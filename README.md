@@ -28,14 +28,14 @@ Here are some of the projects I’ve worked on:
 - Web-based applications using HTML, CSS, and JS
 *(More coming soon...)*
 
-## 🎨 Design Portfolio
+##  Design Portfolio
 
-## Figma Projects
+### Figma Projects
 -  Mobile App UI Design  
 -  Website UI/UX Prototypes  
 -  Wireframes and User Flows  
 
-## AutoCAD Projects
+### AutoCAD Projects
 -  Technical Drawings  
 -  Floor Plans and Layouts  
 -  Drafting Projects  
