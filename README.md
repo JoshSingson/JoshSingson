@@ -1,8 +1,5 @@
-# Hi there! I'm Josh Singson👋 
-
-🎓 IT Student  
-💻 Aspiring Developer  
-📍 Philippines  
+# Hi there, I'm Josh Singson👋 
+I'm currently studying at New Era University on BSIT program.  
 
 ---
 
