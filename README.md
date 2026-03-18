@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bunso!
+# Hi there! I'm Josh Singson👋 
 
 🎓 IT Student  
 💻 Aspiring Developer  
