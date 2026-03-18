@@ -3,11 +3,9 @@ I'm currently studying at New Era University on BSIT program.
 
 ---
 
-## 🚀 About Me
-- 🎯 Currently studying Information Technology
-- 📚 Interested in Web Development and Systems
-- 🛠️ Exploring real-world projects to improve my skills
-- 💡 Always learning and trying new technologies
+## Education
+- Information Communication Technology
+- 
 
 ---
 
