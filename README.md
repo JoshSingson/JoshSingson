@@ -4,8 +4,13 @@ I'm currently studying at New Era University on BSIT program.
 ---
 
 ## Education
+- BS in Information Technology
+  - New Era University
+  - 2024 - Present
+
 - Information Communication Technology
-- 
+  - New Era University
+  - 2022 - 2024
 
 ---
 
