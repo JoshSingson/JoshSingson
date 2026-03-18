@@ -10,32 +10,19 @@ I am currently studying at New Era University, pursuing a Bachelor of Science in
   - New Era University
   - 2022 - 2024
 
-## 🧰 Tech Stack
-- 💻 Languages: HTML, CSS, JavaScript
-- ⚙️ Tools: Git, GitHub, VS Code
-- 🌐 Currently learning: Full-stack development
+## Certification
 
----
+## Tech Stack
+-  Languages: HTML, CSS, JavaScript, Python, Java
+-  Tools: Git, GitHub, VS Code, IntelliJ, Pycharm
+-  Currently learning: Full-stack development
 
-## 📌 Projects
+## Projects
 Here are some of the projects I’ve worked on:
-- 📚 Library System (with login & visitor logs)
-- 🌐 Web-based applications using HTML, CSS, and JS
+- Library Visitor Log System (with login & visitor logs)
+- Real Estate Website
+- Web-based applications using HTML, CSS, and JS
+*(More coming soon...)*
 
-*(More coming soon... 👀)*
+*"I can do all things through Christ who strengthens me" *
 
----
-
-## 🎯 Goals
-- 📸 Save up for a camera for photography & videography
-- 💼 Become a skilled developer
-- 🚀 Build real-world and impactful projects
-
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/your-username
-
----
-
-⭐ *"Keep learning, keep building."*
