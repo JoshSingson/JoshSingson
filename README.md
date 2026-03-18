@@ -1,7 +1,5 @@
 # Hi there, I'm Josh Singson👋 
-I'm currently studying at New Era University on BSIT program.  
-
----
+I am currently studying at New Era University, pursuing a Bachelor of Science in Information Technology (BSIT), where I am developing my skills in programming, web development, and system design while continuously learning and building projects to enhance my technical abilities.
 
 ## Education
 - BS in Information Technology
@@ -11,8 +9,6 @@ I'm currently studying at New Era University on BSIT program.
 - Information Communication Technology
   - New Era University
   - 2022 - 2024
-
----
 
 ## 🧰 Tech Stack
 - 💻 Languages: HTML, CSS, JavaScript
