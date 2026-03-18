@@ -28,5 +28,17 @@ Here are some of the projects I’ve worked on:
 - Web-based applications using HTML, CSS, and JS
 *(More coming soon...)*
 
-*"I can do all things through Christ who strengthens me" *
+## 🎨 Design Portfolio
+
+## Figma Projects
+-  Mobile App UI Design  
+-  Website UI/UX Prototypes  
+-  Wireframes and User Flows  
+
+## AutoCAD Projects
+-  Technical Drawings  
+-  Floor Plans and Layouts  
+-  Drafting Projects  
+
+*"I can do all things through Christ who strengthens me" -Philippians 3:14*
 
