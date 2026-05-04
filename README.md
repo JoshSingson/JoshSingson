@@ -14,6 +14,9 @@ I am currently studying at New Era University, pursuing a Bachelor of Science in
 Gemini Certified University Student 2026 - 2029
 - https://edu.google.accredible.com/a4e9a9d8-e6ac-4b52-9d4a-95411c363541#acc.hb4FQ8NV
 
+NoSQL and DBaaS 101
+- https://courses.cognitiveclass.ai/certificates/6746c0747b054ff7b796928c6e601591
+
 
 ## Design
 - UI/UX Design using Figma
