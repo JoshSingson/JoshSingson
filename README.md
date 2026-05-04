@@ -46,8 +46,9 @@ Here are some of the projects I’ve worked on:
 -  Floor Plans and Layouts  
 -  Drafting Projects  
 
-## Connect with Me
-- joshsingson123@gmail.com
+## You may reach me at
+- LinkedIn: https://www.linkedin.com/in/joshsingson/
+- Gmail: joshsingson123@gmail.com
 
 *"I can do all things through Christ who strengthens me" -Philippians 3:14*
 
