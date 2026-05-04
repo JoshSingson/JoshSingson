@@ -22,9 +22,10 @@ NoSQL and DBaaS 101
 - UI/UX Design using Figma
 - Wireframing and Prototyping
 
-## Tech Stack
+## Skill sets
 -  Languages: HTML, CSS, JavaScript, Python, Java
--  Tools: Git, GitHub, VS Code, IntelliJ, Pycharm
+-  Tools: Git, GitHub, VSCode, IntelliJ, Pycharm, Lucidchart, Eclipse
+-  Databases: IBM DB2 Cloud
 -  Currently learning: Full-stack development
 
 ## Projects
