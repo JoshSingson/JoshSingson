@@ -17,6 +17,9 @@ Gemini Certified University Student 2026 - 2029
 NoSQL and DBaaS 101
 - https://courses.cognitiveclass.ai/certificates/6746c0747b054ff7b796928c6e601591
 
+Data Analytics with AI
+- https://www.sololearn.com/certificates/CC-7QUOJRYV
+
 
 ## Design
 - UI/UX Design using Figma
