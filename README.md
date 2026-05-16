@@ -1,14 +1,16 @@
 <div align="center">
 
-# Josh Singson
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1a3a4a,100:0f2027&height=160&text=Josh%20Singson&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Information%20Technology%20Student%20%7C%20Developer%20%7C%20Designer&descAlignY=68&descSize=15&animation=fadeIn" width="100%"/>
 
-**Information Technology Student · Developer · Designer**
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshsingson/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoshSingson123@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=joshsingson&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=joshsingson&style=for-the-badge&color=1a3a4a&label=PROFILE+VIEWS)
 
 </div>
+
+<br/>
 
 ---
 
@@ -28,24 +30,46 @@ BS Information Technology student at New Era University, developing skills in pr
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1a3a4a&height=4&section=header" width="100%"/>
+
 ## Education
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1a3a4a&height=4&section=footer" width="100%"/>
+
+<br/>
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
 | BS in Information Technology | New Era University | 2024 – Present |
 | Information & Communication Technology | New Era University | 2022 – 2024 |
 
+<br/>
+
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1a3a4a&height=4&section=header" width="100%"/>
+
 ## Certifications
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1a3a4a&height=4&section=footer" width="100%"/>
+
+<br/>
 
 [![Google](https://img.shields.io/badge/Gemini%20Certified%20University%20Student%202026–2029-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/a4e9a9d8-e6ac-4b52-9d4a-95411c363541#acc.hb4FQ8NV)
 [![IBM](https://img.shields.io/badge/NoSQL%20%26%20DBaaS%20101-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://courses.cognitiveclass.ai/certificates/6746c0747b054ff7b796928c6e601591)
 [![Sololearn](https://img.shields.io/badge/Data%20Analytics%20with%20AI-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/certificates/CC-7QUOJRYV)
 
+<br/>
+
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1a3a4a&height=4&section=header" width="100%"/>
+
 ## Technical Skills
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1a3a4a&height=4&section=footer" width="100%"/>
+
+<br/>
 
 **Languages**
 
@@ -74,9 +98,17 @@ BS Information Technology student at New Era University, developing skills in pr
 
 ![Full Stack](https://img.shields.io/badge/Full--Stack%20Development-111827?style=for-the-badge&logo=stackshare&logoColor=white)
 
+<br/>
+
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1a3a4a&height=4&section=header" width="100%"/>
+
 ## Projects
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1a3a4a&height=4&section=footer" width="100%"/>
+
+<br/>
 
 | Project | Description |
 |---------|-------------|
@@ -86,9 +118,17 @@ BS Information Technology student at New Era University, developing skills in pr
 
 *Additional projects currently in development.*
 
+<br/>
+
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1a3a4a&height=4&section=header" width="100%"/>
+
 ## Design Portfolio
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1a3a4a&height=4&section=footer" width="100%"/>
+
+<br/>
 
 **UI/UX — Figma**
 
@@ -102,19 +142,29 @@ BS Information Technology student at New Era University, developing skills in pr
 - Floor Plans and Layouts
 - Drafting Projects
 
+<br/>
+
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1a3a4a&height=4&section=header" width="100%"/>
+
 ## Contact
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1a3a4a&height=4&section=footer" width="100%"/>
+
+<br/>
 
 | Platform | Link |
 |----------|------|
 | LinkedIn | [linkedin.com/in/joshsingson](https://www.linkedin.com/in/joshsingson/) |
 | Gmail | [JoshSingson123@gmail.com](mailto:JoshSingson123@gmail.com) |
 
+<br/>
+
 ---
 
 <div align="center">
 
-*"I can do all things through Christ who strengthens me." — Philippians 4:13*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1a3a4a,100:0f2027&height=80&text=%22I%20can%20do%20all%20things%20through%20Christ%20who%20strengthens%20me.%22%20—%20Philippians%204%3A13&fontSize=13&fontColor=aaaaaa&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
