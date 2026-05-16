@@ -1,6 +1,6 @@
 <div align="center">
 
-# SYSTEM.OUT:: JOSH_SINGSON
+# SYSTEM.OUT:: JOSHUA_SINGSON
 
 ```bash
 > Initializing portfolio...
