@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshsingson/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshsingson123@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=203a43&label=PROFILE+VIEWS)
 
 </div>
@@ -110,7 +110,7 @@ Passionate IT student building real-world projects, crafting clean interfaces, a
 ## Contact
 
 - LinkedIn: [linkedin.com/in/joshsingson](https://www.linkedin.com/in/joshsingson/)
-- Gmail: email@gmail.com
+- Gmail: [joshsingson123@gmail.com](https://www.)
 
 ---
 
