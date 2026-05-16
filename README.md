@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Name&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20Student%20%7C%20Developer%20%7C%20Designer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+# Josh Singson
 
-</div>
-
-<br/>
-
-<div align="center">
+**Information Technology Student · Developer · Designer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshsingson/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshsingson123@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=203a43&label=PROFILE+VIEWS)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoshSingson123@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=joshsingson&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About Me
+## About
 
 ```typescript
-const profile = {
+const josh = {
   university : "New Era University",
   degree     : "BS Information Technology",
   enrolled   : "2024 – Present",
@@ -28,7 +24,7 @@ const profile = {
 };
 ```
 
-Passionate IT student building real-world projects, crafting clean interfaces, and continuously growing through every line of code written.
+BS Information Technology student at New Era University, developing skills in programming, web development, and system design — continuously learning and building projects to grow as a developer.
 
 ---
 
@@ -63,8 +59,8 @@ Passionate IT student building real-world projects, crafting clean interfaces, a
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -76,7 +72,7 @@ Passionate IT student building real-world projects, crafting clean interfaces, a
 
 **Currently Learning**
 
-![Full Stack](https://img.shields.io/badge/Full--Stack%20Development-0f2027?style=for-the-badge&logo=stackshare&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full--Stack%20Development-111827?style=for-the-badge&logo=stackshare&logoColor=white)
 
 ---
 
@@ -84,39 +80,40 @@ Passionate IT student building real-world projects, crafting clean interfaces, a
 
 | Project | Description |
 |---------|-------------|
-| **Library Visitor Log System** | Login system with complete visitor logging and management functionality |
-| **Real Estate Website** | Property listing and browsing web platform |
-| **Web-Based Applications** | Various interactive client-side applications built with HTML, CSS, and JavaScript |
+| **Library Visitor Log System** | Web-based system with user authentication and visitor logging functionality |
+| **Real Estate Website** | Property listing and browsing platform |
+| **Web-Based Applications** | Collection of interactive client-side applications built with HTML, CSS, and JavaScript |
 
-*More projects in progress.*
+*Additional projects currently in development.*
 
 ---
 
 ## Design Portfolio
 
 **UI/UX — Figma**
+
 - Mobile App UI Design
 - Website UI/UX Prototypes
 - Wireframes and User Flows
 
 **Technical Design — AutoCAD**
+
 - Technical Drawings
 - Floor Plans and Layouts
 - Drafting Projects
 
 ---
 
-
 ## Contact
 
-- LinkedIn: [linkedin.com/in/joshsingson](https://www.linkedin.com/in/joshsingson/)
-- Gmail: [joshsingson123@gmail.com](https://www.)
+| Platform | Link |
+|----------|------|
+| LinkedIn | [linkedin.com/in/joshsingson](https://www.linkedin.com/in/joshsingson/) |
+| Gmail | [JoshSingson123@gmail.com](mailto:JoshSingson123@gmail.com) |
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 *"I can do all things through Christ who strengthens me." — Philippians 4:13*
 
