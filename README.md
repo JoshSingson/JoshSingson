@@ -1,50 +1,49 @@
 <div align="center">
 
-# Hi there, I'm Josh 👋
+# Hi there, I'm Josh
 
-### 💻 BSIT Student | Aspiring Full-Stack Developer | UI/UX Enthusiast
+### BSIT Student | Aspiring Full-Stack Developer | UI/UX Enthusiast
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=BSIT+Student+at+New+Era+University;Passionate+about+Web+Development;Learning+and+Building+Everyday;Future+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=BSIT+Student+at+New+Era+University;Passionate+about+Web+Development;Learning+and+Building+Everyday;Future+Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am currently studying at **New Era University**, pursuing a **Bachelor of Science in Information Technology (BSIT)**.  
-I am passionate about **programming, web development, UI/UX design, and system development** while continuously improving my technical and problem-solving skills through projects and self-learning.
+I am currently studying at **New Era University**, pursuing a **Bachelor of Science in Information Technology (BSIT)**. I am passionate about programming, web development, UI/UX design, and system development while continuously improving my technical and problem-solving skills through projects and self-learning.
 
 ---
 
-## 🎓 Education
+## Education
 
-### 🏫 Bachelor of Science in Information Technology
+### Bachelor of Science in Information Technology  
 **New Era University**  
-📅 2024 - Present
+2024 - Present
 
-### 🖥️ Information and Communication Technology
+### Information and Communication Technology  
 **New Era University**  
-📅 2022 - 2024
+2022 - 2024
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
-### 🌟 Gemini Certified University Student (2026 - 2029)
-🔗 https://edu.google.accredible.com/a4e9a9d8-e6ac-4b52-9d4a-95411c363541#acc.hb4FQ8NV
+### Gemini Certified University Student (2026 - 2029)
+https://edu.google.accredible.com/a4e9a9d8-e6ac-4b52-9d4a-95411c363541#acc.hb4FQ8NV
 
-### 🗄️ NoSQL and DBaaS 101
-🔗 https://courses.cognitiveclass.ai/certificates/6746c0747b054ff7b796928c6e601591
+### NoSQL and DBaaS 101
+https://courses.cognitiveclass.ai/certificates/6746c0747b054ff7b796928c6e601591
 
-### 📊 Data Analytics with AI
-🔗 https://www.sololearn.com/certificates/CC-7QUOJRYV
+### Data Analytics with AI
+https://www.sololearn.com/certificates/CC-7QUOJRYV
 
 ---
 
-## 🎨 Design Skills
+## Design Skills
 
 - UI/UX Design using Figma
 - Wireframing
@@ -53,62 +52,62 @@ I am passionate about **programming, web development, UI/UX design, and system d
 
 ---
 
-## 🛠️ Skill Set
+## Skill Set
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 </p>
 
-### ⚙️ Tools & Technologies
+### Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,eclipse,figma" />
 </p>
 
-### 🗃️ Databases
+### Databases
 - IBM DB2 Cloud
 
-### 📚 Currently Learning
+### Currently Learning
 - Full-Stack Development
 - Modern Web Technologies
 - Backend Development
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 📚 Library Visitor Log System
+### Library Visitor Log System
 - Login Authentication
 - Visitor Log Monitoring
 - Data Recording System
 
-### 🏠 Real Estate Website
+### Real Estate Website
 - Property Listing Interface
 - Responsive Website Design
 - Interactive UI Components
 
-### 🌐 Web-Based Applications
+### Web-Based Applications
 - Built using HTML, CSS, and JavaScript
 
-✨ *More projects coming soon...*
+*More projects coming soon...*
 
 ---
 
-## 🎨 Design Portfolio
+## Design Portfolio
 
-### 🖌️ Figma Projects
+### Figma Projects
 - Mobile App UI Design
 - Website UI/UX Prototypes
-- Wireframes & User Flows
+- Wireframes and User Flows
 
-### 📐 AutoCAD Projects
+### AutoCAD Projects
 - Technical Drawings
-- Floor Plans & Layouts
+- Floor Plans and Layouts
 - Drafting Projects
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joshsingson/" target="_blank">
@@ -124,9 +123,7 @@ I am passionate about **programming, web development, UI/UX design, and system d
 
 <div align="center">
 
-### ✨ Favorite Quote
-
-> *"I can do all things through Christ who strengthens me."*  
-> — Philippians 4:13
+*"I can do all things through Christ who strengthens me."*  
+— Philippians 4:13
 
 </div>
