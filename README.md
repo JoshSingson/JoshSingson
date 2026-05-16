@@ -1,6 +1,6 @@
 Make my readme.me beautiful
 
-## Hi there, Name👋 
+## Hi there, Josh Singson👋 
 I am currently studying at New Era University, pursuing a Bachelor of Science in Information Technology (BSIT), where I am developing my skills in programming, web development, and system design while continuously learning and building projects to enhance my technical abilities.
 
 ## Education
