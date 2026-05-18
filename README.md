@@ -38,8 +38,8 @@ I am currently studying at New Era University, pursuing a Bachelor of Science in
 | Certificate | Issuer | Period |
 |-------------|--------|--------|
 | [![Gemini](https://img.shields.io/badge/Gemini%20Certified%20University%20Student-4285F4?style=flat-square&logo=google&logoColor=white)](https://edu.google.accredible.com/a4e9a9d8-e6ac-4b52-9d4a-95411c363541#acc.hb4FQ8NV) | Google | 2026 – 2029 |
-| [![NoSQL](https://img.shields.io/badge/NoSQL%20%26%20DBaaS%20101-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://courses.cognitiveclass.ai/certificates/6746c0747b054ff7b796928c6e601591) | IBM Cognitive Class | 2024 |
-| [![DataAnalytics](https://img.shields.io/badge/Data%20Analytics%20with%20AI-149EF2?style=flat-square&logo=sololearn&logoColor=white)](https://www.sololearn.com/certificates/CC-7QUOJRYV) | Sololearn | 2024 |
+| [![NoSQL](https://img.shields.io/badge/NoSQL%20%26%20DBaaS%20101-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://courses.cognitiveclass.ai/certificates/6746c0747b054ff7b796928c6e601591) | IBM Cognitive Class | 2026 |
+| [![DataAnalytics](https://img.shields.io/badge/Data%20Analytics%20with%20AI-149EF2?style=flat-square&logo=sololearn&logoColor=white)](https://www.sololearn.com/certificates/CC-7QUOJRYV) | Sololearn | 2026 |
 
 ---
 
